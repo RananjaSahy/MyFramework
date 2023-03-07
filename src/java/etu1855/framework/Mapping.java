@@ -1,3 +1,4 @@
+
 package etu1855.framework;
 
 public class Mapping {
